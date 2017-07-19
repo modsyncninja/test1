@@ -2,6 +2,6 @@
 <ModSyncNinjaData>
 	<ID>29EB8598-A64D-4C9D-98D1-18086A75A836</ID>
 	<ModName>ModSync Ninja</ModName>
-	<Version>1.0.0.1</Version>
-	<SaveBreaking>true</SaveBreaking>
+	<Version>1.0.0.2</Version>
+	<SaveBreaking>false</SaveBreaking>
 </ModSyncNinjaData>
